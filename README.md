@@ -5,6 +5,6 @@
 Para rodar este projeto na sua máquina digite:
 
 ```
-mpm install
+node app.js
 ```
 
